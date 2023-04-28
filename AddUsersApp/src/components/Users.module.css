@@ -1,0 +1,14 @@
+.users {
+  background-color: white;
+  margin: 2rem auto;
+  padding: 1rem;
+  max-width: 40rem;
+  border-radius: 12px;
+  text-align: center;
+}
+
+.users ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
